@@ -1,4 +1,4 @@
-Twitter Engagement Prediction
+Twitter Engagement Predictor
 
 Overview
 This Python-based program leverages machine learning to predict the optimal time of day for maximizing engagement with Twitter posts. Utilizing Scikit-Learn for model training and evaluation, it provides a streamlined solution for content creators and social media managers aiming to enhance their online presence.
